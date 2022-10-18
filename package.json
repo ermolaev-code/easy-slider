@@ -1,0 +1,7 @@
+{
+  "name": "yermo-slider",
+  "scripts": {
+    "start": "cd ../markup-builder && export WORKSPACE_ENV='yermo-slider' && npm run start",
+    "build": "cd ../markup-builder && export WORKSPACE_ENV='yermo-slider' && npm run build"
+  }
+}
